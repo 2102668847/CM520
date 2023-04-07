@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: CM50-1
+name: CM520-1
 
 on:
   repository_dispatch:
